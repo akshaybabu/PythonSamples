@@ -1,0 +1,16 @@
+a = 10
+b = 20
+print(a < b)
+print(a > b)
+print(a <= b)
+print(a >= b)
+c = 'achu'
+d = 'achu'
+print(c < d)
+print(c > d)
+print(c <= d)
+print(c >= d)
+print(True < False)
+print(True > False)
+print(True <= False)
+print(True >= False)
